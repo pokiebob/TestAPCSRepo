@@ -1,5 +1,3 @@
-package TestAPCSRepo;
-
 public class Demo {
 
     public static String arrToString(int[] arr) {
